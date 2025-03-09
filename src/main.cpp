@@ -1,11 +1,8 @@
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
 #include <algorithm>
-#include <cmath>
 #include <iostream>
-#include <algorithm>
 #include <vector>
-#include <ctime>
 #include <cstdlib>
 #define STB_EASY_FONT_IMPLEMENTATION
 #include "../include/stb_easy_font.h"
