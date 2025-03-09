@@ -24,7 +24,7 @@ The goal was to be as low level as possible with minor exceptions.
    
 2. Install dependencies:
    - GLFW: I installed via MSYS2 Pacman --> pacman -S mingw-w64-x86_64-glfw
-   - GLAD: Already in the repo. If curious I used the settings from https://glad.dav1d.de/,
+   - GLAD: Already in the repo. If curious I downloaded from https://glad.dav1d.de/ with the settings,
       Language: C/C++
       Specification: OpenGL
       Profile: Core
