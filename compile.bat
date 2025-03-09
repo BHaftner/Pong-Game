@@ -2,7 +2,7 @@
 setlocal
 
 :: Compiler and flags
-set FLAGS=-ggdb3 -O0 -std=c++17 -Wall
+set FLAGS=-static -static-libgcc -static-libstdc++ -std=c++17 -O2 -Wall -s
 
 :: Include and library paths
 set INCLUDES=-Iinclude -IC:\msys64\mingw64\include
