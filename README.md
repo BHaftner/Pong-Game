@@ -16,6 +16,15 @@ The goal was to be as low level as possible with minor exceptions.
 - MiniAudio
 - STB Easy Font
 
+## Web-browser Version
+
+Here is a ported version you can run on your browser,
+https://bhaftner.github.io/Pong-Game/
+
+The port was done using Emiscripten. Sizeable changes were made before the original main.cpp
+could be compiled correctly into Web Assembly, as such I recommend compiling the .exe after
+cloning the repository if possible.
+
 ## Installation
 1. Clone the repository:
    ```bash
